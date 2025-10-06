@@ -4,6 +4,8 @@ Supercharge your $ASTER farming with this AI-powered bot! 🚀
 - Gives trading tips, no API key needed.  
 - Perfect for Stage 3 airdrops (Oct 2025).  
 **Get started**: Clone, run, and visit [ai-pin.io](https://ai-pin.io) for pro AI features!
+  
+<img width="943" height="621" alt="asterdex-aipin" src="https://github.com/user-attachments/assets/8b111227-4dc1-4c1e-86c9-01df70b17830" />
 
  ## Setup
 1. Clone the repo: `git clone https://github.com/AI-PIN/AsterDex-Bot.git`
