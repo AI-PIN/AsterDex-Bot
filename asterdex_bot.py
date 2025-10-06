@@ -1,5 +1,5 @@
 import requests  # For fetching AsterDEX data
-from ai_pin import AIPinAgent  # Your AI-Pin SDK (placeholder)
+from ai_pin import AIPinAgent  
 import time  # For periodic updates
 
 # Fetch real-time AsterDEX market data
