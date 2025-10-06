@@ -1,0 +1,2 @@
+requests==2.31.0
+# Add ai-pin-sdk when available
